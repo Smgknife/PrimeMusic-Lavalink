@@ -1,7 +1,7 @@
 
 
 module.exports = {
-  TOKEN: "MTQ1ODUxNTc4NzA1MTQzMzk4NQ.Gq1hxO.qZ6NNb55dHO-rneZTqLwjwRI2I8XcL-2WS4TqE",
+  TOKEN: "",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
   mongodbUri : "mongodb+srv://smgknife:<db_password>@musicbot.3dk234o.mongodb.net/?appName=musicbot",
