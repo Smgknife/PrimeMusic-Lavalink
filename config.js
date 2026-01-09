@@ -22,11 +22,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "GlceYT",
-      password: "glace",
-      host: "de-01.strixnodes.com",
-      port: 2010,
-      secure: false
+      name: "ajidevs",
+      password: "https://dsc.gg/ajidevserver",
+      host: "lavalinkv4.serenetia.com",
+      port: 443,
+      secure: true
     }
   ]
 }
